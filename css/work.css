@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+ padding: 0;
+ z-index: 9;
+opacity: 85%;
+
+    
+}
+.container-fluid{
+  width: 100%;
+ 
+  background-color: #0A2647;
+ 
+}
+.colorBG {
+  background-color:#0A2647;
+
+}
+
+.nav-link:hover{
+  color: white;
+}
+.nav-link{
+  color: white;
+}
+.nav-item{
+  margin-right: 100px;
+
+  
+}
+.navbar-brand{
+  font-family: Lucida Handwriting;
+  font-size: 20px;
+  padding-right: 100px;
+  color: white;
+}
+.navbar-brand:hover{
+  color: white;
+}
+.navbar-toggler{
+  background-color: white;
+}
+  .titulli{
+    color: white;
+    background-color: #144681;
+    text-align: center;
+    font-size: 70px;
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 70px;
+  }
+
+.paragraf{
+  font-family: serif;
+  background-color: rgb(249, 233, 233);
+  padding: 0;
+  box-shadow: 1px 3px 6px 1px black;
+ margin-bottom: 15px;
+ background-size: cover;
+ 
+ text-align: center;
+}
+
+
+   /*footer*/
+  
+   .color{
+    text-align: center;
+    text-decoration: none;
+    color:white;
+  }
+  
+
+  .list-unstyled{
+    text-decoration: none;
+    color:white;
+    height: 200px;
+    padding-top: 10px;
+  }
+  
+
+  .footer-social-icon{
+    font-size: 20px;
+    width: 20px;
+  }
+
+  .social-holder{
+    color:white;
+    text-decoration: none;
+    
+  }
+  
+  .col-12.col-md-12{
+    text-align: center;
+    color:white;
+    background-color: #0A2647;
+  
+  }
+
+  .footer-link-2.social-link.w-inline-block{
+    text-decoration: none;
+  }
+  .col-12{
+    color: white;
+  }
+
+  
+.foto{
+  width: 286px;
+  height: 260px;
+
+}
+.row{
+  margin: 0;
+}
+.col{
+  padding-bottom: 30px;
+}
+.card {
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.509);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
+img {
+  border-radius: 5px 5px 0 0;
+}
+.card-body{
+  height: 220px;
+  width: 286px;
+}
+.btn{
+  background-color: #144681;
+  color: aliceblue;
+}
+.btn:hover{
+  background-color:#051425;
+  color: white;
+}
+
+
+
+
+
+
+  
+  
+
+
+
+  /*shembulli*/
+  
